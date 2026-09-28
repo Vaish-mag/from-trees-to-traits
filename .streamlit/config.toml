@@ -1,0 +1,10 @@
+# Always render the site in its own light theme, whatever the computer is set to.
+[theme]
+base = "light"
+primaryColor = "#2E7DD1"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F7FB"
+textColor = "#12304D"
+
+[browser]
+gatherUsageStats = false

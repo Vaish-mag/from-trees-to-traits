@@ -1,0 +1,8 @@
+# Python leftovers - rebuilt automatically, never worth uploading
+__pycache__/
+*.pyc
+
+# editor / tooling settings, not part of the project
+.vscode/
+.DS_Store
+Thumbs.db
